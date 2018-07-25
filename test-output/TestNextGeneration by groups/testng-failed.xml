@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNextGeneration by groups]">
+  <test thread-count="5" name="GRP-addition(failed)">
+    <groups>
+      <run>
+        <include name="addition"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.ab.TestNextGeneration.CalculatorTest">
+        <methods>
+          <include name="addMethodTest4"/>
+          <include name="addMethodTest3"/>
+        </methods>
+      </class> <!-- com.ab.TestNextGeneration.CalculatorTest -->
+    </classes>
+  </test> <!-- GRP-addition(failed) -->
+</suite> <!-- Failed suite [TestNextGeneration by groups] -->

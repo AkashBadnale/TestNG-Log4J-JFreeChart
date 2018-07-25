@@ -1,0 +1,120 @@
+23 Jul 2018 16:16:55,666 INFO  Test:12:com.ab.TestNextGeneration.Test - 25
+23 Jul 2018 16:16:55,672 INFO  Test:14:com.ab.TestNextGeneration.Test - 44.35
+23 Jul 2018 16:16:55,673 INFO  Test:16:com.ab.TestNextGeneration.Test - 27.17
+23 Jul 2018 16:16:55,680 INFO  Test:20:com.ab.TestNextGeneration.Test - 8
+23 Jul 2018 16:16:55,681 INFO  Test:22:com.ab.TestNextGeneration.Test - 88
+23 Jul 2018 16:32:36,316 INFO Test:12:com.ab.TestNextGeneration.Test - 25
+23 Jul 2018 16:32:36,319 INFO Test:14:com.ab.TestNextGeneration.Test - 44.35
+23 Jul 2018 16:32:36,321 INFO Test:16:com.ab.TestNextGeneration.Test - 27.17
+23 Jul 2018 16:32:36,324 INFO Test:20:com.ab.TestNextGeneration.Test - 8
+23 Jul 2018 16:32:36,324 INFO Test:22:com.ab.TestNextGeneration.Test - 88
+23 Jul 2018 16:34:13,451 INFO  TestNextGeneration.Test:12:com.ab.TestNextGeneration.Test - 25
+23 Jul 2018 16:34:13,454 INFO  TestNextGeneration.Test:14:com.ab.TestNextGeneration.Test - 44.35
+23 Jul 2018 16:34:13,457 INFO  TestNextGeneration.Test:16:com.ab.TestNextGeneration.Test - 27.17
+23 Jul 2018 16:34:13,458 INFO  TestNextGeneration.Test:20:com.ab.TestNextGeneration.Test - 8
+23 Jul 2018 16:34:13,459 INFO  TestNextGeneration.Test:22:com.ab.TestNextGeneration.Test - 88
+23 Jul 2018 16:35:09,718 INFO  com.ab.TestNextGeneration.Test:12:com.ab.TestNextGeneration.Test - 25
+23 Jul 2018 16:35:09,721 INFO  com.ab.TestNextGeneration.Test:14:com.ab.TestNextGeneration.Test - 44.35
+23 Jul 2018 16:35:09,723 INFO  com.ab.TestNextGeneration.Test:16:com.ab.TestNextGeneration.Test - 27.17
+23 Jul 2018 16:35:09,724 INFO  com.ab.TestNextGeneration.Test:20:com.ab.TestNextGeneration.Test - 8
+23 Jul 2018 16:35:09,724 INFO  com.ab.TestNextGeneration.Test:22:com.ab.TestNextGeneration.Test - 88
+%highlights{23 Jul 2018 16:40:24,300 INFO  25sg
+mainhrowable Test:12:com.ab.TestNextGeneration.Test - 25
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:40:24,304 INFO  44.35sg
+mainhrowable Test:14:com.ab.TestNextGeneration.Test - 44.35
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:40:24,307 INFO  27.17sg
+mainhrowable Test:16:com.ab.TestNextGeneration.Test - 27.17
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:40:24,308 INFO  8sg
+mainhrowable Test:20:com.ab.TestNextGeneration.Test - 8
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:40:24,309 INFO  88sg
+mainhrowable Test:22:com.ab.TestNextGeneration.Test - 88
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:46:10,025 INFO   Test:12:com.ab.TestNextGeneration.Test - 25
+ 25sg
+mainhrowable}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:46:10,028 INFO   Test:14:com.ab.TestNextGeneration.Test - 44.35
+ 44.35sg
+mainhrowable}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:46:10,030 INFO   Test:16:com.ab.TestNextGeneration.Test - 27.17
+ 27.17sg
+mainhrowable}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:46:10,031 INFO   Test:20:com.ab.TestNextGeneration.Test - 8
+ 8sg
+mainhrowable}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:46:10,031 INFO   Test:22:com.ab.TestNextGeneration.Test - 88
+ 88sg
+mainhrowable}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:47:49,046 INFO   Test:12:com.ab.TestNextGeneration.Test - 25
+ 25sg
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:47:49,048 INFO   Test:14:com.ab.TestNextGeneration.Test - 44.35
+ 44.35sg
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:47:49,050 INFO   Test:16:com.ab.TestNextGeneration.Test - 27.17
+ 27.17sg
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:47:49,052 INFO   Test:20:com.ab.TestNextGeneration.Test - 8
+ 8sg
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}%highlights{23 Jul 2018 16:47:49,052 INFO   Test:22:com.ab.TestNextGeneration.Test - 88
+ 88sg
+}{FATAL=white, ERROR=black, WARN=blue, INFO=red, DEBUG=green, TRACE=blue}[com.ab.TestNextGeneration.Testolor{INFO }] com.ab.TestNextGeneration.Test: 25
+[com.ab.TestNextGeneration.Testolor{INFO }] com.ab.TestNextGeneration.Test: 44.35
+[com.ab.TestNextGeneration.Testolor{INFO }] com.ab.TestNextGeneration.Test: 27.17
+[com.ab.TestNextGeneration.Testolor{INFO }] com.ab.TestNextGeneration.Test: 8
+[com.ab.TestNextGeneration.Testolor{INFO }] com.ab.TestNextGeneration.Test: 88
+23 Jul 2018 16:56:13,302 INFO  Test:12:com.ab.TestNextGeneration.Test - 25
+23 Jul 2018 16:56:13,305 INFO  Test:14:com.ab.TestNextGeneration.Test - 44.35
+23 Jul 2018 16:56:13,307 INFO  Test:16:com.ab.TestNextGeneration.Test - 27.17
+23 Jul 2018 16:56:13,308 INFO  Test:20:com.ab.TestNextGeneration.Test - 8
+23 Jul 2018 16:56:13,308 INFO  Test:22:com.ab.TestNextGeneration.Test - 88
+23 Jul 2018 16:58:51,172 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 65
+23 Jul 2018 16:58:51,191 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 66
+23 Jul 2018 16:58:51,205 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 67
+23 Jul 2018 16:58:51,236 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 68
+23 Jul 2018 16:58:51,244 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 90
+23 Jul 2018 16:58:51,257 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 97
+23 Jul 2018 16:58:51,266 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 98
+23 Jul 2018 16:58:51,269 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 99
+23 Jul 2018 16:58:51,273 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 100
+23 Jul 2018 16:58:51,290 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 122
+23 Jul 2018 16:58:51,311 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 49
+23 Jul 2018 16:58:51,342 DEBUG CharAsciiInterConversion:41:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 57
+24 Jul 2018 14:16:14,669 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 65
+24 Jul 2018 14:16:14,681 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 66
+24 Jul 2018 14:16:14,686 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 67
+24 Jul 2018 14:16:14,699 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 68
+24 Jul 2018 14:16:14,710 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 90
+24 Jul 2018 14:16:14,718 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 97
+24 Jul 2018 14:16:14,729 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 98
+24 Jul 2018 14:16:14,742 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 99
+24 Jul 2018 14:16:14,754 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 100
+24 Jul 2018 14:16:14,766 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 122
+24 Jul 2018 14:16:14,777 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 49
+24 Jul 2018 14:16:14,782 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 57
+25 Jul 2018 11:36:59,262 INFO  Test:14:com.ab.TestNextGeneration.Test - 25
+25 Jul 2018 11:36:59,290 INFO  Test:16:com.ab.TestNextGeneration.Test - 44.35
+25 Jul 2018 11:36:59,296 INFO  Test:18:com.ab.TestNextGeneration.Test - 27.17
+25 Jul 2018 11:36:59,296 INFO  Test:20:com.ab.TestNextGeneration.Test - 28.44
+25 Jul 2018 11:36:59,297 INFO  Test:22:com.ab.TestNextGeneration.Test - 8
+25 Jul 2018 11:36:59,297 INFO  Test:24:com.ab.TestNextGeneration.Test - 88
+25 Jul 2018 11:37:22,030 INFO  Test:14:com.ab.TestNextGeneration.Test - 25
+25 Jul 2018 11:37:22,032 INFO  Test:16:com.ab.TestNextGeneration.Test - 44.35
+25 Jul 2018 11:37:22,034 INFO  Test:18:com.ab.TestNextGeneration.Test - 27.17
+25 Jul 2018 11:37:22,034 INFO  Test:20:com.ab.TestNextGeneration.Test - 28.44
+25 Jul 2018 11:37:22,035 INFO  Test:22:com.ab.TestNextGeneration.Test - 8
+25 Jul 2018 11:37:22,035 INFO  Test:24:com.ab.TestNextGeneration.Test - 88
+25 Jul 2018 11:38:36,706 INFO  Test:14:com.ab.TestNextGeneration.Test - 25
+25 Jul 2018 11:38:36,709 INFO  Test:16:com.ab.TestNextGeneration.Test - 44.35
+25 Jul 2018 11:38:36,711 INFO  Test:18:com.ab.TestNextGeneration.Test - 27.17
+25 Jul 2018 11:38:36,711 INFO  Test:20:com.ab.TestNextGeneration.Test - 28.44
+25 Jul 2018 11:38:36,712 INFO  Test:22:com.ab.TestNextGeneration.Test - 8
+25 Jul 2018 11:38:36,714 INFO  Test:24:com.ab.TestNextGeneration.Test - 88
+25 Jul 2018 11:56:13,710 INFO  Test:13:com.ab.TestNextGeneration.Test - 25
+25 Jul 2018 11:56:13,713 INFO  Test:15:com.ab.TestNextGeneration.Test - 44.35
+25 Jul 2018 11:56:13,716 INFO  Test:17:com.ab.TestNextGeneration.Test - 27.17
+25 Jul 2018 11:56:13,716 INFO  Test:19:com.ab.TestNextGeneration.Test - 28.44
+25 Jul 2018 11:56:13,717 INFO  Test:21:com.ab.TestNextGeneration.Test - 8
+25 Jul 2018 11:56:13,717 INFO  Test:23:com.ab.TestNextGeneration.Test - 88
+25 Jul 2018 13:32:28,086 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 65
+25 Jul 2018 13:32:28,102 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 66
+25 Jul 2018 13:32:28,110 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 67
+25 Jul 2018 13:32:28,121 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 68
+25 Jul 2018 13:32:28,129 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 90
+25 Jul 2018 13:32:28,133 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 97
+25 Jul 2018 13:32:28,161 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 98
+25 Jul 2018 13:32:28,173 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 99
+25 Jul 2018 13:32:28,174 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 100
+25 Jul 2018 13:32:28,183 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 122
+25 Jul 2018 13:32:28,186 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 49
+25 Jul 2018 13:32:28,190 DEBUG CharAsciiInterConversion:43:com.ab.TestNextGeneration.asciiAndcharInterConversion.CharAsciiConversionTest - 57
